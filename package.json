@@ -1,0 +1,12 @@
+{
+  "name": "react-node-js-scaffolding",
+  "version": "0.1.0",
+  "description": "ReactJS and Node.js Javascript Scaffolding",
+  "main": "index.js",
+  "scripts": {
+    "client:up": "npm --prefix client run up",
+    "server:up": "npm --prefix server run up"
+  },
+  "author": "",
+  "license": "ISC"
+}
